@@ -1,0 +1,16 @@
+name,object_name,counter_name
+disk-free-space,LogicalDisk,% Free Space
+avg-disk-read,LogicalDisk,Avg. Disk Read/sec
+avg-disk-write,LogicalDisk,Avg. Disk Write/sec
+disk-queue-length,LogicalDisk,Current Disk Queue Length
+disk-reads,LogicalDisk,Disk Reads/sec
+disk-transfers,LogicalDisk,Disk Transfers/sec
+disk-writes,LogicalDisk,Disk Writes/sec
+disk-free-mb,LogicalDisk,Free Megabytes
+memory-bytes-use,Memory,% Committed Bytes In Use
+memory-bytes-available,Memory,Available Mbytes
+network-bytes-received,Network Adapter,Bytes Received/sec
+network-bytes-sent,Network Adapter,Bytes Sent/sec
+network-bytes-total,Network Interface,Bytes Total/sec
+processor-time,Processor,% Processor Time
+system-queue-length,System,Processor Queue Length
